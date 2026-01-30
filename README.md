@@ -77,15 +77,17 @@ I love building **scalable backend systems** using **Java & Spring Boot** and in
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawansp7&show_icons=true&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pawansp7&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800&v=1" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansp7&layout=compact&theme=dark&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansp7&layout=compact&theme=dark&hide_border=true&cache_seconds=1800&v=1" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawansp7&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawansp7&theme=dark&hide_border=true&cache_seconds=1800&v=1" />
+
 </div>
 
 ---
