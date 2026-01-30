@@ -81,13 +81,6 @@ I love building **scalable backend systems** using **Java & Spring Boot** and in
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pawansp7&theme=github_dark" />
 </div>
 
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pawansp7&theme=github_dark" />
-</div>
-
 <br>
 
 <div align="center">
